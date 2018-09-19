@@ -89,4 +89,4 @@ We thank [BrowserStack](https://www.browserstack.com/), who provide the project 
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Version](https://img.shields.io/pypi/v/wagtail.svg)](https://pypi.python.org/pypi/wagtail/) 
 [![Coverage](http://codecov.io/github/wagtail/wagtail/coverage.svg?branch=master)](http://codecov.io/github/wagtail/wagtail?branch=master)
-[![Slack](https://wagtail-slack.now.sh/badge.svg)](https://wagtail-slack.now.sh)
+[![Slack](https://wagtail-slack.now.sh/badge.svg)](https://wagtail-slack.now.sh) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/wagtail.svg)](https://www.staging.guardrails.io)
